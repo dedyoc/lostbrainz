@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          This lil garden's content is held together by duct tape, twigs and hope. Running on 
+          This lil garden's content is held together by duct tape, twigs and hope.{"\n"}Running on{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
         <ul>
