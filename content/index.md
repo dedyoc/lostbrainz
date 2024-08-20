@@ -3,6 +3,8 @@ title: Gray smoothie
 ---
 
 Welcome to the lair of the incompetent. 
-You might be interested:
+Not doing backlink, because I'm incompetent.
 
-[[AWS Note//]]
+[[Mobile/]]
+[[AWS Note/]]
+
