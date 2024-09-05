@@ -1,5 +1,5 @@
 ---
-title: SE Student but never really write a mobile app
+title: Something about Mobile, ig?
 ---
 
 Mostly Jetpack Compose, I suppose. I'm not a Software Engineer. 
